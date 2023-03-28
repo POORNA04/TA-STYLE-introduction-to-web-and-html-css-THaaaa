@@ -1,0 +1,12 @@
+body{
+    color: aliceblue;
+}
+
+h1 {
+color: red;
+font-size: large;
+}
+#firstline {
+    color: blue;
+    font-size: small;
+}
