@@ -1,0 +1,15 @@
+body {
+    color: white;
+    background-color: rgb(0, 21, 92);
+    font-style:"Times New Roman", Times, serif;
+}
+header {
+    text-align: center;
+}
+
+#social {
+    color: red;
+}
+h2 {
+    color: green;
+}
